@@ -1,0 +1,3 @@
+funktion plusClick(){
+    alert("hej")
+}
