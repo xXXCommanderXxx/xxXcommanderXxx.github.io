@@ -1,0 +1,46 @@
+body {
+    display: grid;
+    grid-template-columns: 30% 30% 20%;
+
+    background-color: rgb(199, 194, 194);
+
+}
+
+.recept-list {
+    width: fit-content;
+}
+
+.recept-list li {
+    background-color: rgb(165, 151, 151);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+.Instruktions-list { 
+    width: fit-content;
+
+}
+
+.Instruktions-list li { 
+    background-color: rgb(118, 115, 115);
+    margin-top: 5px;
+    padding: 5px;
+    font-size: x-large;
+    border-radius: 5px;
+
+}
+
+.bild{
+    margin-left: 25%;
+    
+
+}
+
+.bild img{
+    border-color: rgb(49, 48, 48);
+    border-style: solid;
+    border-width: 5px;
+}
